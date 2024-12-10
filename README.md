@@ -1,1 +1,1 @@
-# flipbook-js-repo
+# 3dFlipbook
